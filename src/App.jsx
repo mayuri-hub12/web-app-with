@@ -3,7 +3,7 @@ import './App.css'
 import CounterButton from "./CounterButton.jsx";
 
 function App() {
-  // let foodListarray=[];
+  let foodListarray=[];
   
   return (<>
   
@@ -16,4 +16,4 @@ function App() {
    
 }
 
-export default App
+export default App;
